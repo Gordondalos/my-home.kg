@@ -1,0 +1,277 @@
+
+/********************************************End Home Page Dark Mode***************************************************/
+body,
+#header,
+.tvsearch-header-display-wrappper form,
+.tvcmsheader-search.search-widget form input[type=text],
+.tvcmsheader-search .tvcms-select-category,
+.tvcmsvertical-menu-wrapper,
+.tvcmsvertical-menu-wrapper .tvleft-right-penal-all-block,
+.tvfooter-social-icon-left li a,
+#search_filters_brands, 
+#search_filters_suppliers, 
+.tvleft-right-penal-all-block, 
+.block-categories, 
+.tvcms-left-testimonial, 
+#left-column .tvcmscustomer-services, 
+#right-column .tvcmscustomer-services, 
+.tvcmsblog-left-side,
+.tvproduct-wrapper,
+.tvcategory-slider-inner-info-box,
+.tvproduct-wrapper .tvtimer-wrapper,
+.tvcmsprev-btn,
+.tvcmsnext-btn,
+.tvtab-title-wrapper .tvtabs-products li:hover, 
+.tvtab-title-wrapper .tvtabs-products li.active,
+.tvcategory-chain-slider-wrapper,
+.tvapp-logo-content-box,
+.tvbrand-img-block,
+.tvcmscustomer-services,
+.footer-container
+
+{
+	background-color: #000
+}
+
+.tv-main-div,
+.tv-language-dropdown, 
+.tv-currency-dropdown,
+.tvcms-header-myaccount .tv-account-dropdown,
+.tv-menu-horizontal .menu-dropdown,
+.tvcmsvertical-menu li.level-1:hover, 
+.tvvertical-menu-show-hide-category .tvvertical-show-category:hover, 
+.tvvertical-menu-show-hide-category .tvvertical-hide-category:hover,
+.tvcmsvertical-menu .menu-dropdown,
+.tvmain-slider-content-wrapper,
+.tvcategory-chain-title:after,
+.tvnewsleeter-input-button-wraper .input-wrapper input
+
+{
+	background-color: #1c1c1e;
+}
+
+
+.tvheader-nav-offer-text i,
+.tvheader-nav-offer-text p,
+#tvcmsdesktop-language-selector .tv-language-btn .tv-language-span, 
+#tvcmsdesktop-currency-selector .tv-currency-btn .tv-currency-span,
+#tvcmsdesktop-language-selector .tv-language-btn i, 
+#tvcmsdesktop-currency-selector .tv-currency-btn i,
+.tv-language-dropdown li a, 
+.tv-currency-dropdown li a,
+.tvcmsheader-search .tvcms-select-category,
+.tvcmsheader-search.search-widget form input[type=text],
+#tvcmsdesktop-user-info .tvhedaer-sign-btn, 
+.tvcmsdesktop-view-wishlist .tvwishlist-name span, 
+.tvcmsdesktop-view-compare .tvdesktop-view-compare-name,
+.tv-account-wrapper .tv-myaccount-btn span,
+.tv-vertical-menu-text-wrapper .tvvertical-menu-category, 
+.tvvertical-menu-show-hide-category span,
+.tvcmsvertical-menu li.level-1:hover>.tv-vertical-menu-text-wrapper .tvvertical-menu-category, 
+.tvvertical-menu-show-hide-category:hover span,
+.tvcmsvertical-menu ul li.level-1 ul li h2 a,
+.tvcmsvertical-menu ul li.level-1 ul li>a:hover,
+.tv-menu-horizontal .cat-drop-menu li a span,
+#header .tv-menu-horizontal ul li.level-1 ul li.item-header a,
+.tvmain-slider-contant .tvmain-slider-title,
+.tvleft-right-title.facet-label, 
+.block-categories .category-top-menu > li.tv-category-title-wrapper a,
+#left-column .tvservices-content-box .tvservices-title,
+#right-column .tvservices-content-box .tvservices-title,
+.tvcmstestimonial .tvtestimonial-designation, 
+.tvcms-left-testimonial .tvtestimonial-designation,
+.tvnews-event-content-wrapper .tvnews-event-titel a h3, 
+.kr_blog_post_area .tvblog_post .post_content .post_title a,
+.kr_blog_post_area .tvblog_post .post_content .post_description p,
+#search_filters_brands .facet .tvsearch-filter-brand-wrapper li.facet-label a,
+#search_filters .facet .facet-label a, 
+#search_filters_brands .facet .facet-label a, 
+#search_filters_suppliers .facet .facet-label a,
+.tvcms-main-title .tvmain-title h2,
+.tvcategory-slider-info-box,
+.tvtab-title-wrapper .tvtabs-products li span,
+.tvproduct-name .product-title a h6,
+.tvproduct-wrapper .tvproduct-timer-wrapper .hours, 
+.tvproduct-wrapper .tvproduct-timer-wrapper .minutes, 
+.tvproduct-wrapper .tvproduct-timer-wrapper .days,
+.tvproduct-wrapper .tvtimer-dot,
+.tvcategory-chain-title a,
+.tvapp-logo-content-inner .tvdekstop-footer-all-title-wrapper .tvfooter-title span,
+.tvdekstop-footer-all-desc-wrapper span,
+.tvservices-content-box .tvservices-title,
+.tvfooter-title-wrapper .tvfooter-title, 
+.tvdekstop-footer-all-title-wrapper .tvfooter-title, 
+.block_newsletter .tvnewsletter-title
+{
+	color: #fff;
+}
+.tvcmsheader-search.search-widget form input[type=text]::placeholder,
+.tvcmsvertical-menu li .tvvertical-menu-dropdown-icon,
+.tvcmsvertical-menu li:hover .tvvertical-menu-dropdown-icon,
+.tvcmsvertical-menu ul li.level-1 ul li>a,
+#header .tv-menu-horizontal ul li.level-1 ul li.item-line a,
+.tvmain-slider-contant .tvmain-slider-info p,
+.tvservices-content-box .tvservice-dec,
+.tvcmstestimonial .tvtestimonial-dec, 
+.tvcms-left-testimonial .tvtestimonial-dec,
+.tvblog-date-username p, 
+.tvnews-event-description,
+#module-tvcmsblog-archive .post_content .post_meta p,
+.product-price-and-shipping .regular-price,
+.tvcategory-chain-slider-category a,
+.tvcategory-chain-slider-category a:after,
+.tvfooter-logo-block .tvfooter-logo-desc,
+.footer-container li a,
+#footer_sub_menu_store_info, 
+.tvfooter-store-link a,
+.tvnewsletter-description p,
+.tvcopylink p
+
+{
+	color: #989898
+}
+
+.tvcmsdesktop-top-header-wrapper .tvcmsdesktop-top-header,
+.tv-language-dropdown, 
+.tv-currency-dropdown,
+.tvsearch-header-display-wrappper form,
+.tvcms-header-myaccount .tv-account-dropdown,
+.tvcmsvertical-menu-wrapper,
+.tvcategory-title-wrapper,
+.tvcmsvertical-menu .menu-dropdown,
+.tvcmsvertical-menu ul li.level-1 ul li h2 a,
+.tvverticalmenu-dropdown .product-container,
+#header .tv-menu-horizontal ul li.level-1 ul li.item-line.tvmega-menu-link a:before,
+.product-block .product-container,
+.tvbanner-hover-wrapper img,
+.tvcms-main-slider,
+.tvmain-slider-content-wrapper,
+#search_filters_brands, 
+#search_filters_suppliers, 
+.tvleft-right-penal-all-block, 
+.block-categories, 
+.tvcms-left-testimonial, 
+#left-column .tvcmscustomer-services, 
+#right-column .tvcmscustomer-services, 
+.tvcmsblog-left-side,
+.tvleft-product-wrapper-info, 
+.tvcmsblog-left-side .tvblog-event-all-block, 
+.tvsearch-filter-brand-wrapper, 
+.tvserach-filter-suppliers, 
+.tvtestimonial-slider-button-wrapper, 
+.tv-category-wrapper, 
+.tv-leftcategory-wrapper, 
+.tvserach-filter-wrapper, 
+#left-column .tv-all-service.card-deck, 
+#right-column .tv-all-service.card-deck,
+.tvproduct-wrapper,
+.tvleft-right-product-slider .tvproduct-wrapper,
+#left-column .tvcmscustomer-services .tvservices-center, 
+#right-column .tvcmscustomer-services .tvservices-center,
+.tvcategory-slider-inner-info-box,
+.tvproduct-wrapper .tvtimer-wrapper,
+.tvcmsprev-btn,
+.tvcmsnext-btn,
+.tvtab-title-wrapper .tvtabs-products li:hover, 
+.tvtab-title-wrapper .tvtabs-products li.active,
+.tvcategory-chain-slider-wrapper,
+.tvcmstwoofferbanners-one .tvofferbanner-two-inner img,
+.tvapp-logo-content-box,
+.tvfooter-product-box-layout .tvleft-right-product-slider .tvproduct-wrapper,
+.tvmain-all-product-wrapper .owl-item.active,
+.tvbrand-img-block,
+.tvcmscustomer-services,
+.tvcmscustomer-services .tvservices-center,
+.tvfooter-storelogo-inner,
+.tvfooter-copy-payment-icon-wrapper,
+.tvnewsleeter-input-button-wraper .input-wrapper input
+{
+	border-color: #292929
+}
+/***********Extra************/
+.tvcmsvertical-menu li.level-1, 
+.tvvertical-menu-show-hide-category .tvvertical-show-category, 
+.tvvertical-menu-show-hide-category .tvvertical-hide-category{
+	border-left: 3px solid #292929;
+}
+.tvcmsvertical-menu li.level-1:hover, 
+.tvvertical-menu-show-hide-category .tvvertical-show-category:hover, 
+.tvvertical-menu-show-hide-category .tvvertical-hide-category:hover{
+	border-top: 1px solid #292929;
+    border-bottom: 1px solid #292929;
+
+}
+/********************************************Start All Inner Page Dark Mode***************************************************/
+.tvcmscart-show-dropdown{
+	background-color: #000;
+}
+.tvcmssearch-dropdown
+
+{
+	background-color: #1c1c1c; 
+}
+
+
+
+.tvcmssearch-dropdown,
+.tvsearch-dropdown-total-wrapper,
+.tvsearch-more-search,
+.tvcart-product-list,
+.tvcmscart-show-dropdown .tvcart-product-wrapper.items,
+.tvcart-product-content-box
+{
+	border-color: #292929
+}
+
+
+.tvsearch-dropdown-title,
+.tvshoping-cart-dropdown-title span.product-name,
+span.tvcart-product-price
+
+{
+	color: #fff;
+}
+
+.tvsearch-dropdown-total
+.product-price-and-shipping .regular-price,
+.tvcart-no-product-label,
+.tvcart-product-totle,
+.tvcart-product-list-price span,
+.tvcart-product-list-total-info .tvshoping-cart-subtotal, 
+.tvshoping-cart-shipping, 
+.tvshoping-cart-tax, 
+.ttshoping-cart-total,
+.dropdown
+{
+	color: #989898;
+}
+
+
+
+
+
+
+
+
+/*****************************************/
+.tvcmsheader-search .tvcms-select-category{
+	background-image: url(../img/themevolty/arrow.png);
+}
+.shimmercard{
+	border: 1px solid #1c1c1e;
+    background-color: #1c1c1e;
+}
+.shimmerBG{
+	background: linear-gradient(to right, #909090 4%, #6b6b6b 25%, #929292 36%);
+	background-size: 1200px 100%;
+}
+.tv-main-div.tv-box-layout.container{
+	box-shadow: 0 1px 15px 2px rgba(204, 204, 204, 0.27);
+	background-color: #000;
+	border: 10px solid #131313;
+}
+.form-control-select{
+	color: #ccc;
+	background:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAMAAAAMCGV4AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAASUExURUdwTP///////////////////4gZPH8AAAAFdFJOUwAzEe7dBY7osgAAAChJREFUCNdjYKAcMMEAhMvIzAoBzIwoAjAuVADBBQsgc4ECLIwMNAEASfAAiRevi4sAAAAASUVORK5CYII=') right center  no-repeat;
+}
+
